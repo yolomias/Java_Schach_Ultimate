@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Schach_ist_Toll:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Schach_ist_Toll_jar</output-path>
+    <root id="archive" name="Schach_ist_Toll.jar">
+      <element id="module-output" name="Schach_ist_Toll" />
+    </root>
+  </artifact>
+</component>
